@@ -8,8 +8,13 @@ $ pwd
 $ cd <path-da-pasta>
 # mostrar conteúdo da pasta
 $ ls <path-da-pasta>
+
 ```
 
 ## Comandos de git
 ```sh
+
+#clona repositorio remoto
+$ git clone <url-do-remoto>
+
 ```
