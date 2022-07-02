@@ -1,20 +1,18 @@
-# Aprendendo Java
+Resumo do projeto:
 
-## Comandos de terminal
-```sh
-# mostrar diretório atual
-$ pwd
-# entrar em pasta
-$ cd <path-da-pasta>
-# mostrar conteúdo da pasta
-$ ls <path-da-pasta>
 
-```
+🔨 Funcionalidades do projeto:
+Funcionalidade 1:
+Funcionalidade 2:
+Funcionalidade 3:
+Funcionalidade 4:
+Funcionalidade 5:
 
-## Comandos de git
-```sh
 
-#clona repositorio remoto
-$ git clone <url-do-remoto>
+✔️ Técnicas e tecnologias utilizadas:
 
-```
+
+
+
+📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando aqui.
