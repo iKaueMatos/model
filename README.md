@@ -28,12 +28,12 @@ Para instalar o <Nome projeto>, siga estas etapas:
 
 Linux e macOS:
 ```
-git clone 
+git clone Repositorio
 ```
 
 Windows:
 ```
-git clone 
+git clone Repositorio
 ```
 
 ## 🤝 Colaboradores
