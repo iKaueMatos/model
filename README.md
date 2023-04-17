@@ -14,26 +14,29 @@ bash
 Copy code
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Instale as dependências do projeto:
+bash
 Copy code
 npm install
 ou
 
+bash
 Copy code
 yarn install
 Inicie o servidor local:
-sql
+bash
 Copy code
 npm start
 ou
 
-sql
+bash
 Copy code
 yarn start
 Abra o navegador e acesse http://localhost:3000 para ver o projeto em execução.
-🛠️ Tecnologias Utilizadas
-[tecnologia 1]
-[tecnologia 2]
-[tecnologia 3]
+
+## 🛠️ Tecnologias Utilizadas
+<img src="https://img.shields.io/badge/-tecnologia%201-007ACC?style=flat-square&logo=technology&logoColor=white" alt="tecnologia 1">
+<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=technology&logoColor=white" alt="tecnologia 2">
+<img src="https://img.shields.io/badge/-tecnologia%203-007ACC?style=flat-square&logo=technology&logoColor=white" alt="tecnologia 3">
 
 ## 🤝 Contribuindo com o projeto
 Se você quiser contribuir com o projeto, siga os passos abaixo:
@@ -50,3 +53,6 @@ Este projeto está sob a licença [nome da licença]. Para mais informações, c
 
 ## 📊 Status do Projeto
 Este projeto está [em andamento/concluído] e pode ser encontrado em produção em [link para o projeto].
+
+## 📌 Sobre mim
+Meu nome é [seu nome], sou [sua profissão] e adoro trabalhar em projetos de tecnologia. Se quiser saber mais sobre mim ou entrar em contato, confira meu perfil do Linkedin ou Twitter.
