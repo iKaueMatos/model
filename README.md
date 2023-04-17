@@ -1,10 +1,12 @@
-README
+
+## README
+
 Este é o repositório do meu projeto no GitHub. Aqui, você encontrará informações sobre o projeto, como executá-lo em sua máquina local, as tecnologias utilizadas e como contribuir com o projeto.
 
-Descrição do Projeto
+## Descrição do Projeto
 O projeto é [descreva brevemente o projeto aqui]. Ele foi criado com o objetivo de [objetivo do projeto], e foi desenvolvido utilizando [tecnologias utilizadas].
 
-Como executar o projeto em sua máquina local
+# Como executar o projeto em sua máquina local
 Para executar o projeto em sua máquina local, siga os passos abaixo:
 
 Faça um clone deste repositório em sua máquina local:
@@ -27,12 +29,16 @@ ou
 sql
 Copy code
 yarn start
+
 Abra o navegador e acesse http://localhost:3000 para ver o projeto em execução.
-Tecnologias Utilizadas
+
+## Tecnologias Utilizadas
 [tecnologia 1]
 [tecnologia 2]
 [tecnologia 3]
-Contribuindo com o projeto
+
+## Contribuindo com o projeto
+
 Se você quiser contribuir com o projeto, siga os passos abaixo:
 
 Faça um fork deste repositório.
@@ -41,5 +47,6 @@ Faça as alterações necessárias e adicione os arquivos modificados: git add .
 Faça um commit com suas alterações: git commit -m "minha contribuição".
 Envie suas alterações para o seu fork: git push origin minha-contribuicao.
 Crie um pull request neste repositório, explicando suas alterações.
-Licença
+
+## Licença
 Este projeto está sob a licença [nome da licença]. Para mais informações, consulte o arquivo LICENSE.
