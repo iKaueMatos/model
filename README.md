@@ -1,36 +1,79 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# modelo-README.md
+Modelo (template) de README para utilizar nas documentações dos seus projetos no GitHub. Deixe sua ⭐ se curtiu o template, para ficar salvo e utilizar depois.
 
-## README
-Este é o repositório do meu projeto no GitHub. Aqui, você encontrará informações sobre o projeto, como executá-lo em sua máquina local, as tecnologias utilizadas e como contribuir com o projeto.
+# Título/Nome do projeto
 
-## 📝 Descrição do Projeto
-O projeto é [descreva brevemente o projeto aqui]. Ele foi criado com o objetivo de [objetivo do projeto], e foi desenvolvido utilizando [tecnologias utilizadas].
+Descreva brevemente o seu projeto. Aqui você pode utilizar texto e também imagens/diagramas.
 
-## 🚀 Como executar o projeto em sua máquina local
-Para executar o projeto em sua máquina local, siga os passos abaixo:
+* O [Mermaid](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o) é uma opção bem legal para diagramas e você consegue utilizar diretamente no README.md:
 
-...
+[![](https://mermaid.ink/img/pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o?type=png)](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o)
 
-## 🛠️ Tecnologias Utilizadas
-<img src="https://img.shields.io/badge/-tecnologia%201-007ACC?style=flat-square&logo=technology&logoColor=white" alt="tecnologia 1">
-<img src="https://img.shields.io/badge/-tecnologia%202-007ACC?style=flat-square&logo=technology&logoColor=white" alt="tecnologia 2">
-<img src="https://img.shields.io/badge/-tecnologia%203-007ACC?style=flat-square&logo=technology&logoColor=white" alt="tecnologia 3">
+- No site, vá no campo: Actions > Copy Markdown. Copie o link e cole no seu arquivo README.md e o diagrama estará lá.
 
-## 🤝 Contribuindo com o projeto
-Se você quiser contribuir com o projeto, siga os passos abaixo:
 
-Faça um fork deste repositório.
-Crie uma branch com sua contribuição: git checkout -b minha-contribuicao.
-Faça as alterações necessárias e adicione os arquivos modificados: git add ..
-Faça um commit com suas alterações: git commit -m "minha contribuição".
-Envie suas alterações para o seu fork: git push origin minha-contribuicao.
-Crie um pull request neste repositório, explicando suas alterações.
+### Tecnologias Utilizadas
 
-## 📝 Licença
-Este projeto está sob a licença [Kaue de matos]. Para mais informações, consulte o arquivo LICENSE.
+Liste as tecnologias (linguagens, ferramentas, bibliotecas) que você utilizou para elaborar o projeto. Essa parte é importante para quando um recrutador (que não tem conhecimento de programação) acessar o seu projeto, ele vai saber só olhando a documentação quais tecnologias você já conhece!
 
-## 📊 Status do Projeto
-Este projeto está [em andamento/concluído] e pode ser encontrado em produção em [link para o projeto].
+Exemplo:
+* [Golang](https://github.com/golang/go)
+* [Docker](https://www.docker.com/)
+* [MySQL](https://www.mysql.com/)
 
-## 📌 Sobre mim
-Meu nome é [Kaue de matos], sou Estagiario de desenolvimento php e adoro trabalhar em projetos de tecnologia. Se quiser saber mais sobre mim ou entrar em contato, confira meu perfil do Linkedin:https://www.linkedin.com/in/ikauematos/
+## Dependências e Versões Necessárias
+
+Liste as dependências necessárias para rodar o projeto e as versões que você utilizou.
+
+* Docker - Versão: X.X
+
+## Como rodar o projeto ✅
+
+Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
+
+Uma boa forma de descrever o passo a passo é:
+
+```
+Comando 1
+```
+
+Depois, rode o seguinte comando:
+
+```
+Comando 2
+```
+
+Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
+
+## Como rodar os testes
+
+Explique como rodar os testes da aplicação. Exemplo de um comando usando Makefile para rodar os testes:
+
+```
+make test
+```
+
+## 📌 (Título) - Informações importantes sobre a aplicação (exemplo) 📌
+
+Esse é o local para você preencher com outras informações que possam ser importantes para a aplicação. Coloquei um exemplo de título, mas você deve preencher de acordo com a necessidade do projeto. Pode ser que não seja necessário.
+
+Um bom exemplo: se você estiver construindo uma API, liste as rotas da aplicação e quais serão os seus retornos. Isso facilita para quem vai consumir a API.
+
+
+## ⚠️ Problemas enfrentados
+
+Liste os problemas que você enfrentou construindo a aplicação e como você resolveu cada um deles. Você que desenvolveu o projeto é a pessoa que mais conhece/entende os possíveis problemas que uma pessoa pode enfrentar rodando a aplicação. Compartilhe esse conhecimento e facilite a vida da pessoa descrevendo-os.
+
+Exemplo:
+
+### Problema 1:
+Descrição do problema
+* Como solucionar: explicar a solução.
+
+### Problema 2:
+Descrição do problema
+* Como solucionar: explicar a solução.
+
+## ⏭️ Próximos passos
+
+Descreva se você pretende, pensou ou gostaria de elaborar uma nova feature para o seu projeto definindo os próximos passos.
